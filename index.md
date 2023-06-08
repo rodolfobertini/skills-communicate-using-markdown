@@ -75,6 +75,6 @@ Tarefa do Gatinho:
 Criação de uma Lista
 
 - [ ] Primeiro item da lista de tarefas.
-- [ ] Segundo item d lista.
-- [x] Terceiro item da lista e está marcado
+- [ ] Segundo item da lista, não está marcado.
+- [x] Terceiro item da lista, está marcado.
 
