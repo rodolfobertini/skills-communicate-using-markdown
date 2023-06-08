@@ -72,3 +72,9 @@ Tarefa do Gatinho:
   </body>
 </html>
 ```
+Criação de uma Lista
+
+- [ ] Primeiro item da lista de tarefas.
+- [ ] Segundo item d lista.
+- [x] Terceiro item da lista e está marcado
+
